@@ -18,4 +18,4 @@ async def clear(ctx, amount=100):
     await client.delete_messages(messages)
     await client.say("DELETED")
 
-client.run(TOKEN)
+client.run("NTM2ODM5Nzg3Mzg3MDI3NDU4.Dyciig.e_E2hhIfj9xCZnAQkmA-Vz8uAdQ")
